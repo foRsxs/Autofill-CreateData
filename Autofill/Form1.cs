@@ -1,9 +1,6 @@
 ﻿using System;
-//using System.Collections.Generic;
 using System.ComponentModel;
-//using System.Data;
 using System.Drawing;
-//using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using mshtml;
@@ -31,14 +28,12 @@ namespace Autofill
     public partial class Form1 : Form
     {
         Properties.Settings ps = Properties.Settings.Default;
-        
-        //System.Windows.Forms.Timer timerClicker1;
         System.Windows.Forms.Timer timerClicker2;
-        //  bool time_to_do = true;
+
         Options op;
         bool check, err;
         bool work_o = false;
-        int kol = 0, kol_error = 0; //j_login = 0, j_err = 0, j_loadmask = 0, j_messagebox = 0;
+        int kol = 0, kol_error = 0; 
 
         delegate void SetTextCallback(string text);
         InputSimulator input = new InputSimulator();
