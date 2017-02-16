@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Autofill.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">535:427</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">718:427</Value>
+    </Setting>
+    <Setting Name="login_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">821012401599</Value>
+    </Setting>
+    <Setting Name="pass_text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">821012ww</Value>
+    </Setting>
+    <Setting Name="validation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="status" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="medorg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="medotd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://eisz.kz/</Value>
+    </Setting>
+    <Setting Name="of_dir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bro_version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12001</Value>
+    </Setting>
+    <Setting Name="w1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.2</Value>
+    </Setting>
+    <Setting Name="w2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="w3" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="profiles" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="is_city" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
