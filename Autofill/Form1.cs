@@ -35,6 +35,7 @@ namespace Autofill
         //System.Windows.Forms.Timer timerClicker1;
         System.Windows.Forms.Timer timerClicker2;
         //  bool time_to_do = true;
+        // test
         Options op;
         bool check, err;
         bool work_o = false;
